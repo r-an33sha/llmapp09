@@ -260,7 +260,7 @@ class TestRoutesEndpoint:
         data = response.json()
         assert data["classify"] == "gemma4:31b"
         assert data["sentiment"] == "glm-5.2"
-        assert data["summarize"] == "mistral-large-3:675b"
+        assert data["summarize"] == "glm-5.2"
         assert data["intent"] == "minimax-m3"
 
 

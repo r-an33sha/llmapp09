@@ -18,7 +18,7 @@ class TestModelRouter:
     def test_get_model_summarize(self):
         router = ModelRouter()
         model = router.get_model(TaskType.SUMMARIZE)
-        assert model == "mistral-large-3:675b"
+        assert model == "glm-5.2"
 
     def test_get_model_intent(self):
         router = ModelRouter()
@@ -39,7 +39,7 @@ class TestModelRouter:
         routes = router.get_routes()
         assert routes["classify"] == "gemma4:31b"
         assert routes["sentiment"] == "glm-5.2"
-        assert routes["summarize"] == "mistral-large-3:675b"
+        assert routes["summarize"] == "glm-5.2"
         assert routes["intent"] == "minimax-m3"
 
     def test_each_task_has_unique_model(self):

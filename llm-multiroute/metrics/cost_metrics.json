@@ -1387,7 +1387,7 @@
     {
       "timestamp": "2026-07-17T03:07:16.902920+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 147,
       "output_tokens": 114,
       "total_tokens": 261
@@ -2011,7 +2011,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.705460+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2019,7 +2019,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.731949+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2027,7 +2027,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.740898+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2035,7 +2035,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.749601+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2043,7 +2043,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.758747+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2131,7 +2131,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.870371+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2267,7 +2267,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.787352+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2275,7 +2275,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.814141+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2283,7 +2283,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.824342+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2291,7 +2291,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.833310+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2299,7 +2299,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.842107+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2387,7 +2387,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.958678+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 0,
       "output_tokens": 0,
       "total_tokens": 0
@@ -2499,7 +2499,7 @@
     {
       "timestamp": "2026-08-19T06:23:18.159521+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 94,
       "output_tokens": 79,
       "total_tokens": 173
@@ -2507,7 +2507,7 @@
     {
       "timestamp": "2026-08-19T06:23:48.701741+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 95,
       "output_tokens": 80,
       "total_tokens": 175
@@ -2515,7 +2515,7 @@
     {
       "timestamp": "2026-08-19T06:24:02.924603+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 93,
       "output_tokens": 76,
       "total_tokens": 169
@@ -2523,7 +2523,7 @@
     {
       "timestamp": "2026-08-19T06:24:37.129172+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 94,
       "output_tokens": 84,
       "total_tokens": 178
@@ -2531,7 +2531,7 @@
     {
       "timestamp": "2026-08-19T06:25:09.237066+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 93,
       "output_tokens": 77,
       "total_tokens": 170
@@ -2539,7 +2539,7 @@
     {
       "timestamp": "2026-08-19T06:25:15.580320+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 93,
       "output_tokens": 77,
       "total_tokens": 170
@@ -2547,7 +2547,7 @@
     {
       "timestamp": "2026-08-19T06:25:33.026093+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 104,
       "output_tokens": 78,
       "total_tokens": 182
@@ -2643,7 +2643,7 @@
     {
       "timestamp": "2026-10-20T01:30:55.702829+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 98,
       "total_tokens": 254
@@ -2651,7 +2651,7 @@
     {
       "timestamp": "2026-10-20T01:30:58.136622+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 106,
       "total_tokens": 254
@@ -2659,7 +2659,7 @@
     {
       "timestamp": "2026-10-20T01:31:01.839199+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 92,
       "total_tokens": 245
@@ -2667,7 +2667,7 @@
     {
       "timestamp": "2026-10-20T01:31:03.972945+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -2675,7 +2675,7 @@
     {
       "timestamp": "2026-10-20T01:31:06.327451+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 113,
       "total_tokens": 252
@@ -2787,7 +2787,7 @@
     {
       "timestamp": "2026-10-20T02:11:29.187082+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 94,
       "total_tokens": 250
@@ -2795,7 +2795,7 @@
     {
       "timestamp": "2026-10-20T02:11:31.460345+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 97,
       "total_tokens": 245
@@ -2803,7 +2803,7 @@
     {
       "timestamp": "2026-10-20T02:11:33.397197+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 88,
       "total_tokens": 241
@@ -2811,7 +2811,7 @@
     {
       "timestamp": "2026-10-20T02:11:35.517541+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -2819,7 +2819,7 @@
     {
       "timestamp": "2026-10-20T02:11:37.819952+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 116,
       "total_tokens": 255
@@ -3267,7 +3267,7 @@
     {
       "timestamp": "2026-10-20T05:07:13.847676+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 98,
       "total_tokens": 254
@@ -3283,7 +3283,7 @@
     {
       "timestamp": "2026-10-20T05:07:14.677016+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 98,
       "total_tokens": 254
@@ -3291,7 +3291,7 @@
     {
       "timestamp": "2026-10-20T05:07:15.408505+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 94,
       "total_tokens": 250
@@ -3299,7 +3299,7 @@
     {
       "timestamp": "2026-10-20T05:07:16.305882+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 111,
       "total_tokens": 259
@@ -3307,7 +3307,7 @@
     {
       "timestamp": "2026-10-20T05:07:17.434107+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 102,
       "total_tokens": 250
@@ -3323,7 +3323,7 @@
     {
       "timestamp": "2026-10-20T05:07:18.252891+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 97,
       "total_tokens": 245
@@ -3331,7 +3331,7 @@
     {
       "timestamp": "2026-10-20T05:07:18.968465+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 88,
       "total_tokens": 241
@@ -3339,7 +3339,7 @@
     {
       "timestamp": "2026-10-20T05:07:19.378541+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 95,
       "total_tokens": 248
@@ -3347,7 +3347,7 @@
     {
       "timestamp": "2026-10-20T05:07:19.989898+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 98,
       "total_tokens": 254
@@ -3355,7 +3355,7 @@
     {
       "timestamp": "2026-10-20T05:07:21.215618+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 88,
       "total_tokens": 241
@@ -3363,7 +3363,7 @@
     {
       "timestamp": "2026-10-20T05:07:21.622097+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -3371,7 +3371,7 @@
     {
       "timestamp": "2026-10-20T05:07:21.969602+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -3379,7 +3379,7 @@
     {
       "timestamp": "2026-10-20T05:07:22.967186+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 97,
       "total_tokens": 245
@@ -3387,7 +3387,7 @@
     {
       "timestamp": "2026-10-20T05:07:23.783355+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -3395,7 +3395,7 @@
     {
       "timestamp": "2026-10-20T05:07:24.496298+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 116,
       "total_tokens": 255
@@ -3403,7 +3403,7 @@
     {
       "timestamp": "2026-10-20T05:07:24.853222+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 112,
       "total_tokens": 251
@@ -3411,7 +3411,7 @@
     {
       "timestamp": "2026-10-20T05:07:25.049708+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 88,
       "total_tokens": 241
@@ -3419,7 +3419,7 @@
     {
       "timestamp": "2026-10-20T05:07:26.444838+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 109,
       "total_tokens": 248
@@ -3427,7 +3427,7 @@
     {
       "timestamp": "2026-10-20T05:07:28.403415+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 117,
       "total_tokens": 285
@@ -3459,7 +3459,7 @@
     {
       "timestamp": "2026-10-20T05:07:31.461371+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 113,
       "total_tokens": 252
@@ -3707,7 +3707,7 @@
     {
       "timestamp": "2026-10-20T05:08:25.327464+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 93,
       "total_tokens": 249
@@ -3715,7 +3715,7 @@
     {
       "timestamp": "2026-10-20T05:08:27.688185+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 113,
       "total_tokens": 261
@@ -3723,7 +3723,7 @@
     {
       "timestamp": "2026-10-20T05:08:29.770313+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 88,
       "total_tokens": 241
@@ -3731,7 +3731,7 @@
     {
       "timestamp": "2026-10-20T05:08:31.884139+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -3739,7 +3739,7 @@
     {
       "timestamp": "2026-10-20T05:08:34.139221+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 113,
       "total_tokens": 252
@@ -3891,7 +3891,7 @@
     {
       "timestamp": "2026-10-20T06:02:33.407982+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 156,
       "output_tokens": 98,
       "total_tokens": 254
@@ -3899,7 +3899,7 @@
     {
       "timestamp": "2026-10-20T06:02:36.115541+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 148,
       "output_tokens": 97,
       "total_tokens": 245
@@ -3907,7 +3907,7 @@
     {
       "timestamp": "2026-10-20T06:02:38.645481+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 153,
       "output_tokens": 97,
       "total_tokens": 250
@@ -3915,7 +3915,7 @@
     {
       "timestamp": "2026-10-20T06:02:40.793685+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 168,
       "output_tokens": 113,
       "total_tokens": 281
@@ -3923,7 +3923,7 @@
     {
       "timestamp": "2026-10-20T06:02:43.035847+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "input_tokens": 139,
       "output_tokens": 112,
       "total_tokens": 251

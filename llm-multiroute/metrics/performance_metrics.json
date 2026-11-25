@@ -1041,7 +1041,7 @@
     {
       "timestamp": "2026-07-17T03:07:16.895122+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 3.6244
     },
     {
@@ -1509,31 +1509,31 @@
     {
       "timestamp": "2026-08-17T06:06:35.703476+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:06:35.729965+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:06:35.738841+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:06:35.747634+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:06:35.756739+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
@@ -1599,7 +1599,7 @@
     {
       "timestamp": "2026-08-17T06:06:35.868363+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
@@ -1701,31 +1701,31 @@
     {
       "timestamp": "2026-08-17T06:15:50.785176+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:15:50.811951+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:15:50.822145+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
       "timestamp": "2026-08-17T06:15:50.831109+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0002
     },
     {
       "timestamp": "2026-08-17T06:15:50.839922+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
@@ -1791,7 +1791,7 @@
     {
       "timestamp": "2026-08-17T06:15:50.956395+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 0.0001
     },
     {
@@ -1875,43 +1875,43 @@
     {
       "timestamp": "2026-08-19T06:23:18.155900+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.1189
     },
     {
       "timestamp": "2026-08-19T06:23:48.696978+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.9764
     },
     {
       "timestamp": "2026-08-19T06:24:02.922076+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.8627
     },
     {
       "timestamp": "2026-08-19T06:24:37.126385+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0663
     },
     {
       "timestamp": "2026-08-19T06:25:09.234110+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0076
     },
     {
       "timestamp": "2026-08-19T06:25:15.577720+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.1697
     },
     {
       "timestamp": "2026-08-19T06:25:33.023548+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.8541
     },
     {
@@ -1983,31 +1983,31 @@
     {
       "timestamp": "2026-10-20T01:30:55.700128+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 3.2073
     },
     {
       "timestamp": "2026-10-20T01:30:58.133727+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.3955
     },
     {
       "timestamp": "2026-10-20T01:31:01.836567+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 3.6844
     },
     {
       "timestamp": "2026-10-20T01:31:03.969877+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.1162
     },
     {
       "timestamp": "2026-10-20T01:31:06.324820+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.338
     },
     {
@@ -2091,31 +2091,31 @@
     {
       "timestamp": "2026-10-20T02:11:29.174610+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.9392
     },
     {
       "timestamp": "2026-10-20T02:11:31.445429+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.2298
     },
     {
       "timestamp": "2026-10-20T02:11:33.386549+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.8923
     },
     {
       "timestamp": "2026-10-20T02:11:35.499829+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0776
     },
     {
       "timestamp": "2026-10-20T02:11:37.806941+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.2542
     },
     {
@@ -2451,7 +2451,7 @@
     {
       "timestamp": "2026-10-20T05:07:13.836249+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0833
     },
     {
@@ -2463,25 +2463,25 @@
     {
       "timestamp": "2026-10-20T05:07:14.663924+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.9182
     },
     {
       "timestamp": "2026-10-20T05:07:15.399101+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.4586
     },
     {
       "timestamp": "2026-10-20T05:07:16.295799+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.4157
     },
     {
       "timestamp": "2026-10-20T05:07:17.424132+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.7144
     },
     {
@@ -2493,85 +2493,85 @@
     {
       "timestamp": "2026-10-20T05:07:18.242526+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.802
     },
     {
       "timestamp": "2026-10-20T05:07:18.957750+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.6206
     },
     {
       "timestamp": "2026-10-20T05:07:19.367934+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 1.9029
     },
     {
       "timestamp": "2026-10-20T05:07:19.982244+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.4217
     },
     {
       "timestamp": "2026-10-20T05:07:21.209300+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.9254
     },
     {
       "timestamp": "2026-10-20T05:07:21.615495+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.6158
     },
     {
       "timestamp": "2026-10-20T05:07:21.963108+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.5522
     },
     {
       "timestamp": "2026-10-20T05:07:22.962576+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.9462
     },
     {
       "timestamp": "2026-10-20T05:07:23.772904+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.5383
     },
     {
       "timestamp": "2026-10-20T05:07:24.485711+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.8457
     },
     {
       "timestamp": "2026-10-20T05:07:24.842427+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.8537
     },
     {
       "timestamp": "2026-10-20T05:07:25.039076+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0534
     },
     {
       "timestamp": "2026-10-20T05:07:26.433761+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.6187
     },
     {
       "timestamp": "2026-10-20T05:07:28.392693+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 3.3103
     },
     {
@@ -2595,7 +2595,7 @@
     {
       "timestamp": "2026-10-20T05:07:31.452978+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 3.0181
     },
     {
@@ -2781,31 +2781,31 @@
     {
       "timestamp": "2026-10-20T05:08:25.314214+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0677
     },
     {
       "timestamp": "2026-10-20T05:08:27.672481+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.303
     },
     {
       "timestamp": "2026-10-20T05:08:29.748998+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.0242
     },
     {
       "timestamp": "2026-10-20T05:08:31.866683+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.057
     },
     {
       "timestamp": "2026-10-20T05:08:34.123038+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.2003
     },
     {
@@ -2919,31 +2919,31 @@
     {
       "timestamp": "2026-10-20T06:02:33.394630+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.8048
     },
     {
       "timestamp": "2026-10-20T06:02:36.102811+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.6251
     },
     {
       "timestamp": "2026-10-20T06:02:38.632295+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.4799
     },
     {
       "timestamp": "2026-10-20T06:02:40.780090+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.1082
     },
     {
       "timestamp": "2026-10-20T06:02:43.022272+00:00",
       "task_type": "summarize",
-      "model": "mistral-large-3:675b",
+      "model": "glm-5.2",
       "latency_seconds": 2.1906
     },
     {

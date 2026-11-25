@@ -17,7 +17,7 @@ def mock_router():
     router.get_model.side_effect = lambda t: {
         TaskType.CLASSIFY: "gemma4:31b",
         TaskType.SENTIMENT: "glm-5.2",
-        TaskType.SUMMARIZE: "mistral-large-3:675b",
+        TaskType.SUMMARIZE: "glm-5.2",
         TaskType.INTENT: "minimax-m3",
     }[t]
     return router
@@ -163,7 +163,7 @@ class TestSummarizeText:
 
         call_args = mock_http_client.post.call_args
         body = call_args.kwargs.get("json") or call_args[1].get("json")
-        assert body["model"] == "mistral-large-3:675b"
+        assert body["model"] == "glm-5.2"
 
     def test_single_key_point(self, ai_service, mock_http_client):
         json_response = '{"summary": "Brief summary.", "keyPoints": ["Main point"], "wordCount": 2}'
@@ -281,7 +281,7 @@ class TestModelRoutingIntegration:
         tasks_and_models = [
             (lambda: service.classify_text("text"), "gemma4:31b"),
             (lambda: service.analyze_sentiment("text"), "glm-5.2"),
-            (lambda: service.summarize_text("text"), "mistral-large-3:675b"),
+            (lambda: service.summarize_text("text"), "glm-5.2"),
             (lambda: service.detect_intent("text"), "minimax-m3"),
         ]
 
