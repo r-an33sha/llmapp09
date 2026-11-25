@@ -39,7 +39,7 @@ class TestModelRouter:
         routes = router.get_routes()
         assert routes["classify"] == "gemma4:31b"
         assert routes["sentiment"] == "glm-5.2"
-        assert routes["summarize"] == "glm-5.2"
+        assert routes["summarize"] == "gemma2:2b"
         assert routes["intent"] == "minimax-m3"
 
     def test_each_task_has_unique_model(self):
