@@ -3967,11 +3967,43 @@
       "input_tokens": 406,
       "output_tokens": 67,
       "total_tokens": 473
+    },
+    {
+      "timestamp": "2026-11-25T08:55:17.721460+00:00",
+      "task_type": "intent",
+      "model": "minimax-m3",
+      "input_tokens": 458,
+      "output_tokens": 104,
+      "total_tokens": 562
+    },
+    {
+      "timestamp": "2026-11-25T08:55:19.372565+00:00",
+      "task_type": "classify",
+      "model": "gemma4:31b",
+      "input_tokens": 80,
+      "output_tokens": 32,
+      "total_tokens": 112
+    },
+    {
+      "timestamp": "2026-11-25T08:55:19.899482+00:00",
+      "task_type": "sentiment",
+      "model": "glm-5.2",
+      "input_tokens": 379,
+      "output_tokens": 337,
+      "total_tokens": 716
+    },
+    {
+      "timestamp": "2026-11-25T08:55:22.598868+00:00",
+      "task_type": "summarize",
+      "model": "glm-5.2",
+      "input_tokens": 79,
+      "output_tokens": 612,
+      "total_tokens": 691
     }
   ],
   "summary": {
-    "total_input_tokens": 58398,
-    "total_output_tokens": 32350,
-    "total_requests": 496
+    "total_input_tokens": 59394,
+    "total_output_tokens": 33435,
+    "total_requests": 500
   }
 }
