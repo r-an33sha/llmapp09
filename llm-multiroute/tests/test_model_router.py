@@ -18,7 +18,7 @@ class TestModelRouter:
     def test_get_model_summarize(self):
         router = ModelRouter()
         model = router.get_model(TaskType.SUMMARIZE)
-        assert model == "glm-5.2"
+        assert model == "gemma2:2b"
 
     def test_get_model_intent(self):
         router = ModelRouter()
